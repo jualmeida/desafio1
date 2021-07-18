@@ -1,0 +1,12 @@
+{
+    "$schema":"https://on.cypress.io/cypress.schema.json",
+    "baseUrl":"http://automationpractice.com",
+    "watchForFileChanges":false,
+    "experimentalSourceRewriting": true,
+    "testFiles":"**/*.*spec.*",
+    "reporter":"cypress-multi-reporters",
+    "reporterOptions": {
+       "configFile":"reporter-config.json"
+    }
+    
+ }
