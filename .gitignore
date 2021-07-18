@@ -5,7 +5,6 @@ node_modules/
 cypress/reports/index.html
 cypress/reports/index.html.json
 
-
 # videos
 cypress/videos
 
