@@ -2,17 +2,31 @@
 
 🚀 **Desafio empresa GoT - Game of Testers**
 
-![Alt Text](../cypress/support/videoReadme/desafio1.gif)
+![Alt Text](https://github.com/jualmeida/desafio1/blob/master/cypress/support/videoReadme/desafio1.gif)
 
-🎯 Libs Utilizadas:
 
-:white_check_mark: Cypress
+## 🎯 Libs Utilizadas
 
-:white_check_mark: Linguagem Javascript
+:ballot_box_with_check: Cypress
 
-:white_check_mark: Report Mochawesome
+:ballot_box_with_check: Linguagem Javascript
 
-💡 Instruções
+:ballot_box_with_check: Report Mochawesome
+
+## 🎯 Pré-Requisitos
+
+:ballot_box_with_check: <b> Node Instalado </b></br> 
+Verificar com o comando node -v </br>
+
+:ballot_box_with_check: <b> NPM instalado </b></br>
+Verificar com o comando npm -v  </br>
+
+:ballot_box_with_check: <b> Clonar o projeto</b></br>
+
+:ballot_box_with_check: <b> Instalar as dependências do package.json </b> </br>
+ $ npm install</br>
+
+## 💡 Instruções
 
 Utilizando o site automation practice, criar um novo projeto (do zero) e configurar o projeto para implementar testes utilizando o Cypress, conforme visto até aqui. Neste primeiro desafio, você deve utilizar apenas a abordagem sem cucumber.
 
