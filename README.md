@@ -40,7 +40,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 
 :white_check_mark: adicione GIFs ou imagens de seu projeto executando quando subir para o Github
 
-**Cenários que devem ser implementados**
+## Cenários que devem ser implementados
 
 :white_check_mark: Cadastrar um novo usuário
 
@@ -62,7 +62,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 
 :white_check_mark: Validar exibição do texto 'Welcome to your account'
 
-Checklist
+## Checklist
 
 :white_check_mark: Criar uma nova pasta/diretório com o nome do desafio
 
